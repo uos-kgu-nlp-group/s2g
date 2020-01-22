@@ -1,2 +1,2 @@
 # s2g
-UOS & KGU NLP Group Repository
+= sequence to ggplot2 R code
